@@ -8,13 +8,13 @@
     <html lang="en">
     <head>
         <title>Document
-            <body>
-                guvi
+            
         </title>
     </head>
+        <body>
     <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
+        </div>
             <div>
                 Guvi Geek Network
             </div>
@@ -27,12 +27,13 @@
 <html lang="en">
     <head>
         <title>Document
-            <body>
-                guvi
+          
+                  </title>
     </head>
+        <body>
     <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
+        </div>
             <div>
                 Guvi Geek Network
             </div>
@@ -43,6 +44,19 @@
 ---
 
 3. Design a contact us form with all fields as required.
+<html>
+    <head>STUDENT CONTACT DETAILS
+    </head>
+    <body>
+        <h2></h2>
+<input placeholder="Give your mailid"/>
+<br>
+<input  placeholder="Give your phonenumber"/>
+<br>
+<button>Submit</button>
+<br>
+    </body>
+</html>
 
 ---
 
@@ -68,11 +82,40 @@
 ---
 
 5. Create an element that helps you to open the https://google.com in separate new tab.
-
+<html>
+    <head>STUDENT CONTACT DETAILS
+    </head>
+    <body>
+        <h2></h2>
+<input placeholder="Give your mailid"/>
+<br>
+<input  placeholder="Give your phonenumber"/>
+<br>
+<button>Submit</button>
+<br>
+<nav>
+<a href="https://www.google.com/">you want go to browser</a>
+</nav>
+    </body>
+</html>
 ---
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
-
+<html>
+    <head>EMPLOYESS DETAILS
+    </head>
+    <body>
+        <p>employee type(Salaried and own business)</p>
+        <br>
+        <input type="radio" />
+        <label>Salaried</label>
+        <br>
+        <input type="radio" />
+        <label>own business</label>
+        <br>
+        <button>submit</button>
+    </body>
+</html>
 ---
 
 7. Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
@@ -84,13 +127,86 @@
 ---
 
 9. Write HTML input tags snippet to show default values for all Form elements.
-
+<html>
+    <head>STUDENT DETAILS
+    </head>
+    <body>
+        <p>WELCOME TO GUVI</p>
+        <br>
+        <label>NAME</label>
+        <input type="text" />
+        <br>
+        <label>QUALIFIC</label>
+        <input type="text" />
+        <br>
+        <label>phonenumber</label>
+        <input type="text" />
+        <br>
+        <label>country</label>
+        <input type="text" />
+        <br>
+        <label>SEX</label>
+        <br>
+        <input type="radio"/>
+        <label>FEMALE</label>
+        <br>
+        <input type="radio"/>
+        <label>MALE</label>
+        <br>
+        <button>submit</button>
+        <label>DOB</label>
+        <input type="datetime-local"/>
+        <br>
+    </body>
+</html>
 ---
 
 10. In your, HTML page add the below line and Highlight it without using any CSS.
 
 - "HTML & CSS is awesome"
+<html>
+    <head> HTML page add the below line and Highlight it without using any CSS.
 
+        
+    </head>
+    <body>
+        <p>mark tag<mark>"HTML & CSS is awesome"</mark></p>
+        
+    </body>
+</html>
 ---
 
 11. Create an HTML page, which should contain all types of input elements.
+ <html>
+    <head>STUDENT DETAILS
+    </head>
+    <body>
+        <p>WELCOME TO GUVI</p>
+        <br>
+        <label>NAME</label>
+        <input type="text" />
+        <br>
+        <label>QUALIFIC</label>
+        <input type="text" />
+        <br>
+        <label>phonenumber</label>
+        <input type="text" />
+        <br>
+        <label>country</label>
+        <input type="text" />
+        <br>
+        <label>SEX</label>
+        <br>
+        <input type="radio"/>
+        <label>FEMALE</label>
+        <br>
+        <input type="radio"/>
+        <label>MALE</label>
+        <br>
+        <label>DOB</label>
+        <input type="datetime-local"/>
+        <br>
+    
+        <button>submit</button>
+    </body>
+</html>
